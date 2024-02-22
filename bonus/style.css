@@ -1,0 +1,53 @@
+.container{
+    max-width: 1440px;
+    color: white;
+}
+
+.box{
+    
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    min-height: 36px;
+}
+
+
+body, .black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}
+
+.red{
+    background-color: #BF2F38;
+}
+
+.blue{
+    background-color: #416999;
+}
+
+.celeste{
+    background-color: #78AFD5;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.celeste:hover{
+    background-color: lightskyblue;
+}
+
+.blue:hover{
+    background-color: blue;
+}
+
+.red:hover{
+    background-color: red;
+}
+
+.gray:hover{
+    background-color: darkgray;
+}
