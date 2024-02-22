@@ -1,0 +1,18 @@
+.container{
+    max-width: 1440px;
+    padding-top: 10px;
+}
+
+.box{
+    padding: 10px;
+    background-color: #2F6AF2;
+    color: white;
+    text-align: center;
+    border: 1px white solid;
+    min-height: 36px;
+}
+
+.box .box{
+    background-color: #01E165;
+    border: 1px solid #2F6AF2;
+}
